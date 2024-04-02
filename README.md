@@ -1,9 +1,9 @@
 ## Bem-vindo(a) ao perfil de Alexandre Freire 😁
 
  <div>
-   <a href="https://github.com/CafeExpress0">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CafeExpress0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CafeExpress0&layout=compact&langs_count=6&theme=tokyonight"/>
+   <a href="https://github.com/AlexandreSFreire">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlexandreSFreire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexandreSFreire&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
     
 <div style="display: inline_block"><br>
